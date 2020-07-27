@@ -1,10 +1,10 @@
-### Hi there 👋
-- 🔭 I’m currently working on Fortify SSR Team, MicroFocus.
-- 🌱 I’m currently learning Master of Cybersecurity in New York University.
+### About Me
+- 🔭 Software Security Research Intern @Fortify SSR Team, MicroFocus.
+- 🌱 Master of Cybersecurity @New York University.
 
 <!--
 **backcover7/backcover7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on ...
