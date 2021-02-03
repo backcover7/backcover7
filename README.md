@@ -30,4 +30,7 @@ Here are some ideas to get you started:
 </a>
 <br>
 
-![backcover7's github stats](https://github-readme-stats.vercel.app/api?username=backcover7&count_private=true&show_icons=true&theme=dracula)
+### Github Stats
+<p>
+  ![backcover7's github stats](https://github-readme-stats.vercel.app/api?username=backcover7&count_private=true&show_icons=true&theme=dracula)
+</p>
