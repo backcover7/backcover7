@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 Software Security Research Intern @Fortify SSR Team, MicroFocus.
+- 🔭 Software Security Research Engineer @Fortify Research Team, Micro Focus.
 - 🌱 Master of Cybersecurity @New York University.
 
 <!--
