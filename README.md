@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 <a href="https://blog.backcover7.cc/" target="_blank">
   <img align="left" alt="backcover7's Website" width="30px" src="https://img.icons8.com/color/48/000000/domain.png" />
 </a>
-<a href="mailto:hou1417x@gmail.com" target="_blank">
+<!-- <a href="mailto:hou1417x@gmail.com" target="_blank">
   <img align="left" alt="backcover7's E-Mail" width="30px" src="https://img.icons8.com/color/48/000000/email.png" />
-</a>
+</a> -->
 <br>
 
 ### Github Stats
