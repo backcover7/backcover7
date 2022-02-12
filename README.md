@@ -35,11 +35,3 @@ Here are some ideas to get you started:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=backcover7&count_private=true&show_icons=true&theme=dracula" />
 </p>
-
-### Visitors
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/3gstudent/count.svg" alt="" /></td>
-  </tr>
-</table>
