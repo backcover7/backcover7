@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- - 🔭 Software Security Research Engineer @Fortify Security Research Team, Micro Focus.-->
 - ☁️ Product Security Engineer @Salesforce, Inc.
-- 🇫 Ex-Fortify Security Researcher
+- 🇫 Ex Fortify@MicroFocus Security Researcher
 - 💜 Master of Cybersecurity @New York University.
 
 <!--
