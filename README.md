@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 ### Github Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=backcover7&count_private=true&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=backcover7&count_private=true&show_icons=true&theme=dracula&PAT_1" />
 </p>
